@@ -1,0 +1,26 @@
+{
+  "prayerTimes": {
+    "Fajr": {
+      "azan": "05:00 AM",
+      "iqama": "05:30 AM"
+    },
+    "Dhuhr": {
+      "azan": "12:30 PM",
+      "iqama": "01:00 PM"
+    },
+    "Asr": {
+      "azan": "04:30 PM",
+      "iqama": "05:00 PM"
+    },
+    "Maghrib": {
+      "azan": "06:45 PM",
+      "iqama": "07:00 PM"
+    },
+    "Isha": {
+      "azan": "08:00 PM",
+      "iqama": "08:30 PM"
+    }
+  },
+  "date": "2024-10-07",
+  "location": "Your City"
+}
